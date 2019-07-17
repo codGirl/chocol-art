@@ -3,7 +3,7 @@
 //  FlowerShopIos
 //
 //  Created by Irina Ivanovska on 5/6/19.
-//  Copyright © 2019 Anastasija Nikolovska. All rights reserved.
+//  Copyright © 2019 Irina Ivanovska. All rights reserved.
 //
 
 import UIKit
