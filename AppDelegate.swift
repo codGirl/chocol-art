@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FlowerShopIos
 //
-//  Created by Anastasija Nikolovska on 5/1/19.
-//  Copyright © 2019 Anastasija Nikolovska. All rights reserved.
+//  Created by Irina Ivanovska on 5/1/19.
+//  Copyright © 2019 Irina Ivanovska. All rights reserved.
 //
 
 import UIKit
